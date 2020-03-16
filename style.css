@@ -1,0 +1,20 @@
+body {
+	background-color: hsl(55, 40%, 70%);
+}
+h1 {
+	font-size: 2em;
+	font-family: sans-serif;
+}
+h2 {
+	color: hsl(0, 0%, 40%);
+	font-family: sans-serif;
+}
+li {
+	color: hsl(120, 50%, 20%);
+	font-family: "Georgia", serif;
+}
+/*a {
+	color: hsl(120, 70%, 10%);
+	font-family: "Georgia", serif;
+	text-decoration: underline;
+}*/
